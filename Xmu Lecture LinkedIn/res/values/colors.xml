@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="main_menu_normal">#8899a6</color>
-	<color name="main_menu_pressed">#fc6345</color>	
-	<color name="item_content_">#abaeb7</color>	
-	<color name="item_content">#cccccc</color>
+	<color name="main_menu_normal">#8c9092</color>
+	<color name="main_menu_pressed">#c7da76</color>	
+	<color name="item_content">#333333</color>
 	<color name="hint_color">#7d7d7d</color>	
 	<color name="item_line">#32abaeb7</color>
 	<color name="item_button_pressed">#32ffffff</color>
-	<color name="item_background">#4c000000</color>
+	<color name="item_background">#f0ffffff</color>
 	<color name="item_transparent">#00000000</color>
 	<color name="main_menu_background">#d2000000</color>
 	<color name="menu_background_color">#9e000000</color>

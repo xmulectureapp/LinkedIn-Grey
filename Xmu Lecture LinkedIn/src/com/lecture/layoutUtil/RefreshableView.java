@@ -368,7 +368,7 @@ public class RefreshableView extends LinearLayout implements OnTouchListener {
 			} else if (currentStatus == STATUS_REFRESHING) {
 				description.setText(getResources().getString(R.string.refreshing));
 				progressBar.setVisibility(View.VISIBLE);
-				updateAt.setTextColor( getResources().getColor(R.color.main_menu_pressed) );
+				updateAt.setTextColor( getResources().getColor(R.color.main_menu_normal) );
 				arrow.clearAnimation();
 				arrow.setVisibility(View.GONE);
 			}
